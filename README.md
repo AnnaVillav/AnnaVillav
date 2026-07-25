@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKSjRrfIPjeiVyM/giphy.gif" width="350" alt="Coding Hands">
+  <img src="https://media.giphy.com/media/WRFFvvLmYKvOzQFkYx/giphy.gif" width="350" alt="Hacker Terminal">
 </p>
 
 <h1 align="center">👋 ¡Hola! Soy Anabella Villaverde</h1>
