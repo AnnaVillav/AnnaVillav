@@ -1,6 +1,12 @@
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&duration=3000&pause=500&color=58A6FF&center=true&vCenter=true&width=500&height=60&lines=Anabella+Villaverde;Backend+Developer;Python+%7C+Django+%7C+Flask;Haciendo+magia+con+el+código" alt="Typing Effect" />
+</p>
+
+<p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3VidG90ZWNoJmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/26tP1q0q8HqZxZ9c4/giphy.gif" width="350" alt="3D Code">
 </p>
+
+<h1 align="center">👋 ¡Hola! Soy Anabella Villaverde</h1>
 
 <h1 align="center">Hola, soy Anabella Villaverde 👋</h1>
 
