@@ -29,9 +29,9 @@
 - 💻 Fuerte orientación al **Desarrollo Backend**
 - 📚 Cursando **Instituto Tecnológico Analista en Computación** - UNRC (1er año)
 - 🇦🇷 De Río Cuarto, Córdoba
-- 🇪🇸 Español nativo | 🇬🇧 Inglés básico (lectura de documentación técnica)
-- 💼 Experiencia en atención al cliente y tareas administrativas
-- ✨ Responsable, adaptable y comprometida con el aprendizaje continuo
+-  Español nativo |  Inglés básico (lectura de documentación técnica)
+-  Experiencia en atención al cliente y tareas administrativas
+-  Responsable, adaptable y comprometida con el aprendizaje continuo
 
 ---
 
@@ -64,7 +64,7 @@
 
 ---
 
-### 🌱 Actualmente:
+###  Actualmente:
 
 - ✅ Completando mi último año de Técnico en Desarrollo de Software
 - 🔧 Aprendiendo y practicando con **Python, Django y próximamente PostgreSQL**
@@ -74,7 +74,7 @@
 
 ---
 
-### 💼 Experiencia Laboral:
+###  Experiencia Laboral:
 
 - **Atención al Público** | Local de indumentaria (2026 - Actualidad)
 - **Pasantía** | Secundario Tecnológico "Ada Byron" (2025 - 1 año)
@@ -83,10 +83,10 @@
 
 ---
 
-### 📫 ¡Conectemos!
+### ¡Conectemos!
 
 Estoy abierta a oportunidades en **desarrollo backend** y proyectos colaborativos. ¡No dudes en contactarme!
 
 <p align="center">
-  <b>¡Gracias por visitar mi perfil! 🚀</b>
+  <b>¡Gracias por visitar mi perfil! </b>
 </p>
