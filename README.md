@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&duration=3000&pause=500&color=F72585&center=true&vCenter=true&width=500&height=60&lines=Anabella+Villaverde;Desarrolladora+Backend;Python+|+Django+|+Flask;" alt="Matrix Effect" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&duration=3000&pause=500&color=F72585&center=true&vCenter=true&width=500&height=60&lines=Desarrolladora+Backend;Python+|+Django+|+Flask;" alt="Matrix Effect" />
 </p>
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY29kaW5nY29kZS1yZW5kZXJpbmcmZXA9djFfaW50ZXJuYWxfZ2lmX2J5X2lkJmN0PWc/SU1L0GdtVw9e0/giphy.gif" width="300" alt="Matrix Code">
