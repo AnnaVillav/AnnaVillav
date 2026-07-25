@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzB5eWc1eWc1eWc1eWc1eWc1eWc1eWc1eWc1eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/J8fAbJ4Hg0EfdjvQ2d/giphy.gif" width="350" alt="Developer Coding">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3VidG90ZWNoJmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/26tP1q0q8HqZxZ9c4/giphy.gif" width="350" alt="3D Code">
 </p>
 
 <h1 align="center">Hola, soy Anabella Villaverde 👋</h1>
