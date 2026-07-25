@@ -25,17 +25,17 @@
 
 ###  Acerca de mí:
 
-- 🎓 Estudiante avanzada de **Técnico Superior en Desarrollo de Software** (próxima a graduarme)
-- 💻 Fuerte orientación al **Desarrollo Backend**
-- 📚 Cursando **Instituto Tecnológico Analista en Computación** - UNRC (1er año)
-- 🇦🇷 De Río Cuarto, Córdoba
+-  Estudiante avanzada de **Técnico Superior en Desarrollo de Software** (próxima a graduarme)
+-  Fuerte orientación al **Desarrollo Backend**
+-  Cursando **Instituto Tecnológico Analista en Computación** - UNRC (1er año)
+-  De Río Cuarto, Córdoba
 -  Español nativo |  Inglés básico (lectura de documentación técnica)
 -  Experiencia en atención al cliente y tareas administrativas
 -  Responsable, adaptable y comprometida con el aprendizaje continuo
 
 ---
 
-### 💻 Habilidades Técnicas:
+### Habilidades Técnicas:
 
 #### Lenguajes de Programación
 <p align="center">
@@ -66,11 +66,11 @@
 
 ###  Actualmente:
 
-- ✅ Completando mi último año de Técnico en Desarrollo de Software
-- 🔧 Aprendiendo y practicando con **Python, Django y próximamente PostgreSQL**
-- 🎨 Explorando **Next.js y Tailwind CSS** para desarrollo frontend
-- 📖 Mejorando mi inglés técnico
-- 💼 Buscando oportunidades laborales en desarrollo backend
+-  Completando mi último año de Técnico en Desarrollo de Software
+-  Aprendiendo y practicando con **Python, Django y próximamente PostgreSQL**
+-  Explorando **Next.js y Tailwind CSS** para desarrollo frontend
+-  Mejorando mi inglés técnico
+-  Buscando oportunidades laborales en desarrollo backend
 
 ---
 
